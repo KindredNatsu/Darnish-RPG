@@ -1,6 +1,6 @@
 # Darnish RPG: Elementos Simples // Cryo
 
-Cryo consiste no poder de retirar a temperatura de criaturas e objetos deixando-os lento ou até mesmo os congelando e deixando totalmente ímoveis, além de criarem gelo apartir da úmidade do ar
+Cryo consiste no poder de retirar a temperatura de criaturas e objetos deixando-os lento ou até mesmo os congelando e deixando totalmente ímoveis, além de criarem gelo apartir da úmidade do ar, guerreiros aliados do Cryo podem conjurar equipamentos de gelo quando precisarem de tal arma, além de se protegerem ou contra atacar criando barreiras e obstaculos no caminho de seu adversario
 
 ### Efeitos Práticos
 
