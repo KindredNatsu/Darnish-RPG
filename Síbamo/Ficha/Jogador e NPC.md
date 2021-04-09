@@ -6,6 +6,8 @@ A ficha para NPC e Jogador, consiste no mesmo tipo de ficha, isso porque a ficha
 
 A melhor e a forma oficial de se criar uma ficha usando o Síbamo é ter a sua enciclopédia de espécies selecionais e classes para que possa-se se calcular os buffs, logo em seguida, role cinco dados de 10 lados, depois some-os e você terá o valor máximo de sua vida, além disso você também terá 50 pontos de distribuição e poderá distribuir entre seus status Físico, Mágico e Mental tirando a vida máxima e você também não pode deixar o atributo zerado, precisando ter pelo menos 1 em todos os atributos
 
+Quando for falar de sua classe, coloque a sua classe e a passiva que você escolheu da classe entre parênteses, para que deixe claro qual passiva está em atividade no seu personagem
+
 ## Como funciona o sistema de nível
 
 Quando o seu mestre decidir que você upou de nível, você deverá ganhar dois pontos de distribuição, que dará 1 de valor em todos os atributos com excessão a vida, que cada ponto gasto nela, aumentará 5 em vez de 1
