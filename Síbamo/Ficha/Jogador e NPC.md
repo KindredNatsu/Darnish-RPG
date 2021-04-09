@@ -38,6 +38,9 @@ Level (LV):
 Extra (EX):
 > Descrição, biografia ou lore, fica a seu critério o que pôr aqui
 
+Poderes (PD):
+> Uma lista de 3 poderes que seu personagem consegue usar
+
 ### Físico
 
 Vida máxima (VM):
