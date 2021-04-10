@@ -1,6 +1,6 @@
 # Síbamo: Fichas // Espécies
 
-Diferente de classes, o foco das espécies são as passivas além de ofercer um adicional de vida máxima, ofercendo adicionais pequenos nos atributos as espécies tem io seu maior poder de fogo concentrado nas passivas e enquanto as classes lhe dão duas passivas para escolher uma, as espécies lhe dão 3 passivas sem precisar escolher somente uma
+Diferente de classes, o foco das espécies são as passivas além de ofercer um adicional de vida máxima, ofercendo adicionais pequenos nos atributos as espécies tem o seu maior poder de fogo concentrado nas passivas e enquanto as classes lhe dão duas passivas para escolher uma, as espécies lhe dão 3 passivas sem precisar escolher somente uma
 
 ## Modelo básico
 
