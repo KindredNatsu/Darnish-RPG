@@ -8,6 +8,12 @@ A melhor e a forma oficial de se criar uma ficha usando o Síbamo é ter a sua e
 
 Quando for falar de sua classe, coloque a sua classe e a passiva que você escolheu da classe entre parênteses, para que deixe claro qual passiva está em atividade no seu personagem
 
+## Criando seus poderes da maneira correta
+
+Na hora de criar poderes, descreva exatamente o que ele faz, se ele machuca, cura, paralisa, agarra ou até mesmo dá atributos adicionais temporáriamente, além de pôr um tempo de canalização alto, para que a Maestria Mágica tenha sentido e efeito, mesmo que você tenha 1 de Maestria Mágica, por exemplo um tempo de canalização de 20 turnos, seu mestre decidirá qual o melhor tempo de canalização para seu poder
+
+Quando seu poder estiver pronto, você pode adiciona-ló a sua ficha diretamente, ou criar um arquivo separado e apenas usar do nome como identificar fica ao seu critério como achar que fica melhor
+
 ## Como funciona o sistema de nível
 
 Quando o seu mestre decidir que você upou de nível, você deverá ganhar dois pontos de distribuição, que dará 1 de valor em todos os atributos com excessão a vida, que cada ponto gasto nela, aumentará 5 em vez de 1
