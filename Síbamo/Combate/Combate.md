@@ -1,4 +1,4 @@
-# Síbamo: Combate // Combate
+# Síbamo: Combate // Combate Físico e Mágico
 
 Uma breve explicação de funciona o sistema de combate do Síbamo, no Síbamo, o que mais valorizamos são o números por isso a maioria das ações nesse sistema, dependem do resultado de uma equação junto com um fator sorte, dessa maneira ainda manteremos o ato de rolar dados, muito dados, mas tendo um resultado muito mais objetivo e direto em vez de algo relativo
 
