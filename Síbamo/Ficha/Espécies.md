@@ -1,46 +1,47 @@
 # Síbamo: Fichas // Espécies
 
-Diferente de classes, o foco das espécies são as passivas além de ofercer um adicional de vida máxima, ofercendo adicionais pequenos nos atributos as espécies tem o seu maior poder de fogo concentrado nas passivas e enquanto as classes lhe dão duas passivas para escolher uma, as espécies lhe dão 3 passivas sem precisar escolher somente uma
+Diferente das classes, o foco das espécies são as efeitos passivos, além de ofercer um adicional de vida máxima e oferecendo adicionais pequenos nos atributos, mas as espécies tem o seu maior foco nas passivas, e enquanto as classes lhe dão duas passivas para escolher uma, as espécies lhe dão 3 passivas de uma só vez
 
 ## Modelo básico
 
 ### Espécie
 
-Nome da espécie (E):
-> Nome dado a espécie usada como referencia na ficha
+Nome da espécie (EI):
+> Nome dado a espécie usada como referência na ficha
 
-Passivas (PA):
-> Essas passivas lhe oferecem um poder de fogo adicional que sempre estará em efetividade
+Passivas (EP):
+> Essas passivas lhe oferecem efeitos e atributos adicionais durante uma ocasião específica
 
 ### Físico
 
-Vida máxima (VM):
-> O quanto de vida seu personagem tem ao máximo
+Vida máxima (VD):
+> O quanto de vida seu personagem tem no máximo
 
-Velocidade (V):
-> A velocidade e agilidade do seu personagem, importante pra definir turno
+Velocidade (VA):
+> A velocidade e agilidade do seu personagem, usada durante a decisão de turnos
 
-Força (FO):
-> O quão forte é seu personagem
+Força física (FF):
+> O quão forte é o físico de seu personagem
 
-Resistência (R):
+Resistência física (RF):
 > O quanto seu personagem é resistente a dor física
 
 ### Mágico
 
-Poder mágico (P):
-> Isso representa o quão poderoso seu personagem é
+Poder mágico (PM):
+> Isso representa o quão poderoso seu personagem é, ao utilizar mágias
 
-Escudo mágico (EM):
-> Quanto de poder mágico seu personagem absorve
+Proteção mágica (EM):
+> Quanto de poder mágico seu personagem consegue absorver
 
 Maestria mágica (MM):
-> A quantidade de experiência que seu personagem tem com magia, reduz o tempo de canalização
+> O quão rápido seu personagem consegue ser ao canalizar uma mágia
 
 ### Mental
 
-Penetração (PE):
-> O quão convicente seu personagem consegue ser
+Persuasão (PL):
+> O quão convicente seu personagem consegue ser, ao falar ou tocar algo
 
-Fortaleza (FZ):
+Convicção (CL):
 > O quanto seu personagem consegue ser resistente a truques
+
