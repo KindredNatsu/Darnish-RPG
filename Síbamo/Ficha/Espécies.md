@@ -1,30 +1,38 @@
 # Síbamo: Fichas // Espécies
 
-Diferente das classes, o foco das espécies são as efeitos passivos, além de ofercer um adicional de vida máxima e oferecendo adicionais pequenos nos atributos, mas as espécies tem o seu maior foco nas passivas, e enquanto as classes lhe dão duas passivas para escolher uma, as espécies lhe dão 3 passivas de uma só vez
+**TODO**
 
-## Modelo básico
+## Modelo de ficha
 
 ### Espécie
 
-Nome da espécie (EI):
-> Nome dado a espécie usada como referência na ficha
+Nome (NE):
+> O nome verdadeiro de seu personagem
+ 
+Extra (XE):
+> **TODO**
 
-Passivas (EP):
-> Essas passivas lhe oferecem efeitos e atributos adicionais durante uma ocasião específica
+### Geral
+
+Vida mínima (MG):
+> **TODO**
+
+Ganho de vida (GG):
+> **TODO**
+
+Velocidade (EG):
+> A velocidade e agilidade do seu personagem, usada durante a decisão de turnos
 
 ### Físico
-
-Vida máxima (VD):
-> O quanto de vida seu personagem tem no máximo
-
-Velocidade (VA):
-> A velocidade e agilidade do seu personagem, usada durante a decisão de turnos
 
 Força física (FF):
 > O quão forte é o físico de seu personagem
 
 Resistência física (RF):
 > O quanto seu personagem é resistente a dor física
+
+Agilidade (AF)
+> **TODO**
 
 ### Mágico
 
@@ -45,3 +53,5 @@ Persuasão (PL):
 Convicção (CL):
 > O quanto seu personagem consegue ser resistente a truques
 
+Adaptabilidade (AL):
+> **TODO**
