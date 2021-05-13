@@ -1,8 +1,26 @@
-# Síbamo: Fichas // Jogador e NPC
+# Síbamo: Ficha // Jogador e NPC
 
-**TODO:** Descrição de como funciona a ficha
+Tudo que se é personagem, seja jogável ou não, necessita ter uma ficha, o motivo é que todas as abordagens, combate e até mesmo diálogos usam atributos para se calcular o resultado de uma ação ou reação e esses atributos são guardados e descritos dentro de uma ficha de "Jogador e NPC"
 
-**TODO:** Explicações sobre a ficha
+## Regras para os atributos
+
+Quando for escrever seus atributos ou atualizar eles, lembre-se que o Síbamo tem regras claras de qual a forma correta de guardar e calcular seu atributos
+
+Dentro do Síbamo, todos os atributos são números inteiros positivos, não apenas os atributos, mas a Experiência (XG) também, e caso em uma de suas contas não dê um número inteiro, você deverá arrendondar (1.5 ou menor que isso é 1 e 1.6 ou maior é 2) e qualquer número abaixo de zero é zero
+
+Também considere por não só seu valor base, mas como o total na sua ficha, para facilitar a vida do mestre, exemplo, você tem 20 de Força física (FF) mas você tem um item que lhe dá 50% da sua Força física como adicional, você vai escrever "Força física (FF): 20 (30)" em sua ficha, mas isso só é válido apenas para efeitos sempre ativos
+
+## Criando como um jogador
+
+**TODO**
+
+## Criando como um NPC
+
+**TODO**
+
+## Ficando mais forte
+
+**TODO**
 
 ## Modelo de ficha
 
