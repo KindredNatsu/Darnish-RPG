@@ -6,14 +6,14 @@
 
 ### Item
 
-Nome do item (IN):
+Nome do item (NT):
 > O nome que o item tem por motivos de fácil identificação
 
-Formas de uso (IU):
+Formas de uso (UT):
 > **TODO**
 
-Peso (IP):
+Peso (PT):
 > **TODO**
 
-Efeitos (IE):
+Efeitos (ET):
 > Os efeitos/passivas ativos dentro do item
