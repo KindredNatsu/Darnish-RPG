@@ -7,13 +7,13 @@
 ### Classe
 
 Nome da classe (NC):
-> Nome dado a classe usada como referência na ficha
+> O nome único da classe para ser usado como identificador
 
-Passiva especial (EC):
-> **TODO**
+Efeito especial (EC):
+> Oferece uma habilidade que pode está ou não associado a atributos
 
-Passiva de atributo (AC):
-> **TODO**
+Efeito de atributo (AC):
+> Um bônus direto a um atributo ou ao ganho do mesmo
 
-Passiva de abordagem (BC):
-> **TODO** 
+Efeito de abordagem (RC):
+> Um bônus temporário disponível durante uma reação ou ação especifica

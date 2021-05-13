@@ -9,27 +9,27 @@
 ### Identidade
 
 Nome (NI):
-> O nome verdadeiro de seu personagem
+> O nome, sobrenome e apelido de seu personagem (Ex: Nashira "Nat" Deer)
 
 Espécie (EI):
-> A espécie biológica ao quão ele pertence
+> A espécie que ele pertence (Ex: Humano)
 
 Classe (CI):
-> A classe ou profissão que seu personagem tem
+> A classe ou profissão que seu personagem pratica (Ex: Guerreiro)
  
 Extra (XI):
-> Informações extras como descrição, biografia ou lore, fica a seu critério o que pôr aqui
+> Informações extras sobre seu personagem, seja uma descrição ou uma lore
 
 Poderes (PI):
-> Uma lista de 3 poderes que seu personagem consegue usar
+> Uma lista de 2 poderes que seu personagem consegue usar
 
 ### Geral
 
 Vida máxima (VG):
-> O quanto de vida seu personagem tem no máximo
+> O quanto de vida máxima seu personagem pode ter
 
 Velocidade (EG):
-> A velocidade e agilidade do seu personagem, usada durante a decisão de turnos
+> A velocidade do seu personagem e o quão rápido ele se move
 
 Experiência (XG):
 > O nível de experiência do seu personagem
@@ -43,7 +43,7 @@ Resistência física (RF):
 > O quanto seu personagem é resistente a dor física
 
 Agilidade (AF)
-> **TODO**
+> A velocidade de reação de seu personagem ao ser atacado
 
 ### Mágico
 
@@ -54,15 +54,15 @@ Proteção mágica (EM):
 > Quanto de poder mágico seu personagem consegue absorver
 
 Maestria mágica (MM):
-> O quão rápido seu personagem consegue ser ao canalizar uma mágia
+> Define quantos turnos será reduzido de uma "Canalização Mágica"
 
 ### Mental
 
 Persuasão (PL):
-> O quão convicente seu personagem consegue ser, ao falar ou tocar algo
+> O quão convicente ou efetivo seu personagem consegue ser usando sua voz ou sua música
 
 Convicção (CL):
-> O quanto seu personagem consegue ser resistente a truques
+> O quanto seu personagem consegue ser resistente a influencias
 
 Adaptabilidade (AL):
-> **TODO**
+> A facilidade que seu personagem tem de adquirir Experiência (XG)

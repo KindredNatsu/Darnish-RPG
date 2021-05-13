@@ -7,13 +7,13 @@
 ### Item
 
 Nome do item (NT):
-> O nome que o item tem por motivos de fácil identificação
+> Um nome único associado ao item para ser usado como identificador
 
 Formas de uso (UT):
-> **TODO**
+> As formas de uso devem dizer em qual ocasião os efeitos do item se tornam efetivos
 
 Peso (PT):
-> **TODO**
+> A quantidade de força física você precisa para colocar esse item no inventário
 
 Efeitos (ET):
-> Os efeitos/passivas ativos dentro do item
+> Os efeitos que o item oferece ao ser usado

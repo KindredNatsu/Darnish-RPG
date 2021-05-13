@@ -7,21 +7,21 @@
 ### Espécie
 
 Nome (NE):
-> O nome verdadeiro de seu personagem
+> Um nome único associado a espécie para ser usado como identificador
  
 Extra (XE):
-> **TODO**
+> Informações extras sobre a espécie, seja uma descrição ou uma lore
 
 ### Geral
 
 Vida mínima (MG):
-> **TODO**
+> A quantidade mínima de vida que um personagem dessa espécie pode ter
 
 Ganho de vida (GG):
-> **TODO**
+> Multiplicador de vida ganha por ponto de evolução (PX) gasto
 
 Velocidade (EG):
-> A velocidade e agilidade do seu personagem, usada durante a decisão de turnos
+> A velocidade do seu personagem e o quão rápido ele se move
 
 ### Físico
 
@@ -32,7 +32,7 @@ Resistência física (RF):
 > O quanto seu personagem é resistente a dor física
 
 Agilidade (AF)
-> **TODO**
+> A velocidade de reação de seu personagem ao ser atacado
 
 ### Mágico
 
@@ -43,15 +43,15 @@ Proteção mágica (EM):
 > Quanto de poder mágico seu personagem consegue absorver
 
 Maestria mágica (MM):
-> O quão rápido seu personagem consegue ser ao canalizar uma mágia
+> Define quantos turnos será reduzido de uma "Canalização Mágica"
 
 ### Mental
 
 Persuasão (PL):
-> O quão convicente seu personagem consegue ser, ao falar ou tocar algo
+> O quão convicente ou efetivo seu personagem consegue ser usando sua voz ou sua música
 
 Convicção (CL):
-> O quanto seu personagem consegue ser resistente a truques
+> O quanto seu personagem consegue ser resistente a influencias
 
 Adaptabilidade (AL):
-> **TODO**
+> A facilidade que seu personagem tem de adquirir Experiência (XG)
