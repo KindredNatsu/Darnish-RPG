@@ -22,7 +22,7 @@ Depois disso, seu mestre irá julgar se os requisitos foram atendidos, e caso se
 
 ## Criando como um NPC
 
-**TODO**
+No momento de criação de um NPC, primeiro precisa saber qual o foco desse NPC, se é ser muito forte ou balanceado, sabendo o foco, é ideal que você siga o mesmo processo de criação de um jogador comum, com a diferença de que seu NPC não precisará ganhar **Experiência (XG)** e a melhor maneira de decidir quantos pontos de **Experiência (XG)** ele vai ter, é usando a média dos jogadores, já que o Síbamo favorece as melhores estratégias ou os mais fortes, quando finalmente estiver decidido a **Experiência (XG)** basta só fazer o processo abaixo e você terá o seu NPC pronto pra ser apresentado
 
 ## Ficando mais forte
 
