@@ -18,6 +18,8 @@ Para decidir sua **Vida máxima (VG)** inicial, vamos primeiro jogar um dado de 
 
 Na questão de outros atributos, é levemente diferente, você terá 100 **Pontos de evolução (PX)** iniciais, os **Pontos de evolução (PX)** inicias não podem ser gastos na vida, cada ponto gasto, equivale a +1 nos atributos independente dos seus efeitos e todos seus atributos precisam ter pelo menos 1 **Ponto de evolução (PX)** gasto durante a criação da ficha, mas essas limitações apenas se aplicam aos **Pontos de evolução (PX)** iniciais
 
+Depois disso, seu mestre irá julgar se os requisitos foram atendidos, e caso sejam, sua ficha já está pronta para a sessão de RPG
+
 ## Criando como um NPC
 
 **TODO**
