@@ -6,13 +6,17 @@ Tudo que se é personagem, seja jogável ou não, necessita ter uma ficha, o mot
 
 Quando for escrever seus atributos ou atualizar eles, lembre-se que o Síbamo tem regras claras de qual a forma correta de guardar e calcular seu atributos
 
-Dentro do Síbamo, todos os atributos são números inteiros positivos, não apenas os atributos, mas a Experiência (XG) também, e caso em uma de suas contas não dê um número inteiro, você deverá arrendondar (1.5 ou menor que isso é 1 e 1.6 ou maior é 2) e qualquer número abaixo de zero é zero
+Dentro do Síbamo, todos os atributos são números inteiros positivos, não apenas os atributos, mas a **Experiência (XG)** também, e caso em uma de suas contas não dê um número inteiro, você deverá arrendondar (1.5 ou menor que isso é 1 e 1.6 ou maior é 2) e qualquer número abaixo de zero é zero
 
-Também considere por não só seu valor base, mas como o total na sua ficha, para facilitar a vida do mestre, exemplo, você tem 20 de Força física (FF) mas você tem um item que lhe dá 50% da sua Força física como adicional, você vai escrever "Força física (FF): 20 (30)" em sua ficha, mas isso só é válido apenas para efeitos sempre ativos
+Também considere por não só seu valor base, mas como o total na sua ficha, para facilitar a vida do mestre, exemplo, você tem 20 de **Força física (FF)** mas você tem um item que lhe dá 50% da sua **Força física (FF)** como adicional, você vai escrever `Força física (FF): 20 (30)` em sua ficha, mas isso só é válido apenas para efeitos sempre ativos
 
 ## Criando como um jogador
 
-**TODO**
+Para começar a criar a sua ficha, a melhor escolha é começar a criar um caminho, ao quão seu personagem irá seguir, seja um mago, um guerreiro ou um atirador, depois você pode ir atrás de um nome inspirador, uma classe que o ajudará em seu caminho e uma espécie que lhe manterá forte no começo de sua jornada, ao decidir essa parte, vamos aos atributos
+
+Para decidir sua **Vida máxima (VG)** inicial, vamos primeiro jogar um dado de 10 lados e depois, multiplicar o resultado pelo **Ganho de vida (GG)** de sua espécie, logo em seguida, some-o com a **Vida mínima (MG)** de sua espécie e pronto, já sabemos quantas porradas seu personagem aguenta antes de perecer
+
+Na questão de outros atributos, é levemente diferente, você terá 100 **Pontos de evolução (PX)** iniciais, os **Pontos de evolução (PX)** inicias não podem ser gastos na vida, cada ponto gasto, equivale a +1 nos atributos independente dos seus efeitos e todos seus atributos precisam ter pelo menos 1 **Ponto de evolução (PX)** gasto durante a criação da ficha, mas essas limitações apenas se aplicam aos **Pontos de evolução (PX)** iniciais
 
 ## Criando como um NPC
 
