@@ -26,7 +26,11 @@ No momento de criação de um NPC, primeiro precisa saber qual o foco desse NPC,
 
 ## Ficando mais forte
 
-**TODO**
+Dentro do Síbamo, se usa o sistema de experiência, que não é algo como "quantidade de bicho mortos", mas sim como experiência mesmo, podendo ser ela adquirida de brigas, estudos, reflexões e qualquer outra coisa que agregue, a quantidade de experiência de que um ato pode lhe dá, é definido pelo seu mestre e ele deve levar em consideração, o peso daquele ato, como por exemplo, alguém que perdeu sua família ver uma foto de sua mãe pela primeira vez
+
+Lembrando que a quantidade de **Experiência (XG)** ganha, aumenta dependendo de sua **Adaptabilidade (AL)**, o cálculo é bem simples, digamos que você tem 36 de **Adaptabilidade (AL)** e ganhou 12 de **Experiência (XG)**, logo fará `12 + (12 * 0.36) = 16,32` e então arrendando o resultado, você teria ganho 16 de **Experiência (XG)** no total
+
+Sabendo como conseguir **Experiência (XG)**, vamos saber para que serve, e basicamente a cada múltiplo de 100 (Ex. 100, 200, 300, 25900...) atingindo, você ganhará 10 **Pontos de distribuição (PX)** que diferente dos **Pontos de distribuição (PX)** iniciais, esses sim sofrerão de efeitos de crescimento além de poderem ser gastos em vida, fazendo seu personagem crescer e ficar cada vez mais forte
 
 ## Modelo de ficha
 
