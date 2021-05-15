@@ -1,4 +1,4 @@
-# Síbamo: Fichas // Espécies
+# Síbamo: Ficha // Espécies
 
 **TODO**
 
