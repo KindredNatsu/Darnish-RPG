@@ -2,6 +2,16 @@
 
 **TODO**
 
+As espécies dentro do Síbamo, são usadas como ferramentas de apoio durante começo de aventuras, serve como um ponta pé inicial, seja para um personagem híbrido ou um personagem totalmente focado em algum atributo, parte de você escolher a melhor espécie que encaixe com seus objetivos ou com o seu personagem
+
+## Criação de espécie
+
+Durante a criação de uma espécie, é muito importante você saber balancear, de maneira que as espécies sejam escolhidas pelo que podem oferecer e não por qual é a mais forte, então lembre-se de pensar bem no que aquela espécie tem como foco, seja durabilidade, físico, mágico, força e etc.
+
+Outra coisa importante, é saber que a espécie tem valores constantes que não mudam baeado no nível do personagem e que os atributos de uma espécie segue as mesmas regras definidas na ficha de "Jogadores e NPC"
+
+Fique de olho nós personagens que seus jogadores criam e caso note que tenha alguma espécie dando favorecimentos ou resultados além do desejado, mude os valores dos atributos até alcançar o resultado esperado, caso seja uma espécie oficial, pode usar a aba de **Issues** do GitHub para denunciar essa espécie, lembrando que as espécies partem da criatividade do mestre para dentro do RPG, já que são ferramentas que o sistema dão para que os jogadores consigam deixar seu começo mais favoraveis a ele
+
 ## Modelo de ficha
 
 ### Espécie
